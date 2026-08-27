@@ -9,7 +9,7 @@ public class Gerente implements Empleado {
         this.nombre = nombre;
         this.dni = dni;
         this.sueldo = sueldo;
-        this.empleados = empleados;
+        this.empleadosACargo = empleados;
     }
 
     public void setSueldo(double sueldo){
@@ -17,7 +17,7 @@ public class Gerente implements Empleado {
     }
 
     public void setEmpleados(int em){
-        this.empleados = em;
+        this.empleadosACargo = em;
     }
 
     public String getNombre(){
@@ -33,7 +33,7 @@ public class Gerente implements Empleado {
     }
 
     public int getEmpleados(){
-        return this.empleados;
+        return this.empleadosACargo;
     }
 
     public void aceptar(Visitor visitor){

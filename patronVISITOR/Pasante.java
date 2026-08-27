@@ -13,7 +13,7 @@ public class Pasante implements Empleado {
     }
 
     public void setValorHora(double valorHora){
-        this.sueldo = sueldo;
+        this.valorHora = valorHora;
     }
 
     public void setHoras(int h){

@@ -1,3 +1,5 @@
+import java.time.*;
+
 public class EmpleadoComun implements Empleado {
 
     private String nombre;
@@ -6,7 +8,7 @@ public class EmpleadoComun implements Empleado {
     private int antiguedad;
     private int anoIngreso;
 
-    public Gerente(String nombre, int dni, double sueldo, int anoIngreso){
+    public EmpleadoComun(String nombre, int dni, double sueldo, int anoIngreso){
         this.nombre = nombre;
         this.dni = dni;
         this.sueldo = sueldo;
