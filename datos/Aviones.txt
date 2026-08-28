@@ -1,0 +1,10 @@
+AIRBUS-A330-200;Ushuaia;La Plata
+BOEING-737-700;La Rioja;Corrientes
+BOEING-737-800;Santiago del Estero;Río Gallegos
+BOEING-737-MAX8;Córdoba;Salta
+EMBRAER-E190;Resistencia;Neuquén
+BOEING-737-800F;Rawson;Ushuaia
+BOEING-757-256;Neuquén;Paraná
+AIRBUS-A310-300;La Plata;San Salvador de Jujuy
+BOEING-747-200;Santa Rosa;Formosa
+BOEING-707-320;San Juan;Rawson

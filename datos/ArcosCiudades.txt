@@ -1,0 +1,33 @@
+La Plata;Córdoba
+La Plata;Viedma
+La Plata;Paraná
+Viedma;Neuquén
+Viedma;Rawson
+Viedma;Río Gallegos
+Neuquén;Mendoza
+Neuquén;Rawson
+Neuquén;Santa Rosa
+Mendoza;San Juan
+Mendoza;San Luis
+Mendoza;La Rioja
+San Luis;Córdoba
+San Luis;La Rioja
+Córdoba;Paraná
+Córdoba;Santa Fe
+Córdoba;Santiago del Estero
+Córdoba;Catamarca
+La Rioja;Catamarca
+La Rioja;Santiago del Estero
+San Fernando del Valle de Catamarca;San Miguel de Tucumán
+San Fernando del Valle de Catamarca;Salta
+Santiago del Estero;Tucumán
+Santiago del Estero;Resistencia
+Tucumán;Salta
+Salta;San Salvador de Jujuy
+Salta;Formosa
+Formosa;Resistencia
+Resistencia;Corrientes
+Resistencia;Posadas
+Corrientes;Posadas
+Ushuaia;Río Gallegos
+Río Gallegos;Rawson
