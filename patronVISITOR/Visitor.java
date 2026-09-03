@@ -4,3 +4,6 @@ public interface Visitor {
     void visitar(Pasante pasante);
     void visitar(Secretario secretario);
 }
+
+
+
